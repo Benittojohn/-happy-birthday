@@ -1,0 +1,26 @@
+.body{
+     background-image: 
+     url("Screenshot_2022-08-22-20-52-34-870_com.instagram.android.jpg");
+     background-repeat: repeat-y;
+     background-size: contain;
+      
+     
+}
+
+audio{
+    width:   100%;
+    height:  200px;
+
+}
+
+video{
+    display: flex;
+    width:  100%;
+    height: 500px;
+ 
+}
+img{
+    width:  100%;
+    height: 700px;
+     
+}
